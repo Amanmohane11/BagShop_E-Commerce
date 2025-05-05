@@ -1,16 +1,36 @@
-**👜 Bag Shop – Online Store for Bags**
-Bag Shop is a web-based e-commerce platform where users can browse and purchase different types of bags. It is developed using Node.js and Express.js for the backend, EJS for the frontend, and MongoDB to store product and user data.
+**👜 Bag Shop – E-commerce Platform**
+Bag Shop is a full-stack e-commerce web application designed for seamless online shopping and administrative management. The platform is developed using Node.js and Express.js for the backend, EJS (Embedded JavaScript) for dynamic frontend rendering, and MongoDB as the primary database.
 
-**🔑 Key Features:**
+**🔐 Key Features**
+**User Authentication with Encryption & Decryption:**
+Secure login and logout functionality with encrypted user credentials ensures data protection and privacy.
 
-**Two User Roles:**-Admin can add, edit, and manage bag products.
-                 -Buyers can view products, add items to the cart, and place orders.
+**Role-Based Access Control:**
+**Supports two user roles:**
 
-**Secure Login System:**-User login and logout are secured using encryption and decryption techniques.
+**Admin:** Can manage products, view users, and oversee the platform.
 
-**Product Sorting and Filtering:**-Buyers can sort products by popularity or newest and filter by category or discount.
+**Buyer:** Can browse bags, add to cart, and place orders.
 
-**Work in Progress:**-Additional features like wishlist, order history, and an admin dashboard are being developed.
+**Frontend with EJS:**
+The UI is rendered using EJS templates to dynamically display content from the server.
+
+**Backend with Node.js & Express.js:**
+RESTful APIs handle user sessions, product management, and transaction flow.
+
+**Database Integration with MongoDB:**
+Efficient data storage and retrieval for users, products, and orders.
+
+**🚧 Work in Progress**
+This project is actively being developed. Upcoming features include:
+
+Payment gateway integration
+
+Order history tracking
+
+Product filtering and search
+
+Improved admin dashboard
 
 
 ![Image](https://github.com/user-attachments/assets/3aa53636-1690-4f90-9e52-7560cf2c7196)
