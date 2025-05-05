@@ -10,7 +10,7 @@ Secure login and logout functionality with encrypted user credentials ensures da
 
 **Admin:** Can manage products, view users, and oversee the platform.
 
-**Buyer:** Can browse bags, add to cart, and place orders.
+**Buyer:** Can browse bags, add to cart.
 
 **Frontend with EJS:**
 The UI is rendered using EJS templates to dynamically display content from the server.
