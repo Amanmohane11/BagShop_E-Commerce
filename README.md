@@ -1,7 +1,7 @@
-**👜 Bag Shop – E-commerce Platform**
+**Bag Shop – E-commerce Platform**
 Bag Shop is a full-stack e-commerce web application designed for seamless online shopping and administrative management. The platform is developed using Node.js and Express.js for the backend, EJS (Embedded JavaScript) for dynamic frontend rendering, and MongoDB as the primary database.
 
-**🔐 Key Features**
+**Key Features**
 **User Authentication with Encryption & Decryption:**
 Secure login and logout functionality with encrypted user credentials ensures data protection and privacy.
 
@@ -21,7 +21,7 @@ RESTful APIs handle user sessions, product management, and transaction flow.
 **Database Integration with MongoDB:**
 Efficient data storage and retrieval for users, products, and orders.
 
-**🚧 Work in Progress**
+**Work in Progress**
 This project is actively being developed. Upcoming features include:
 
 Payment gateway integration
